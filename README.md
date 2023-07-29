@@ -1,2 +1,2 @@
 # Diretory
-## Resumos sobre os diretórios
+## Resumos sobre os diretórios depois oo clone
